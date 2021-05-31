@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244685885310",
+    "project_id": "bhgala0",
+    "storage_bucket": "bhgala0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244685885310:android:1b38c3b32b00af9afced2f",
+        "android_client_info": {
+          "package_name": "com.example.bhgala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244685885310-2nvd5giolgas0sdgammpc5m39ejd92ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqYZlgqp1fdkj4LAOSx5a4qO7N5rpiXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244685885310-2nvd5giolgas0sdgammpc5m39ejd92ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
